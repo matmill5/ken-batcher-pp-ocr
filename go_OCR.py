@@ -1,10 +1,12 @@
-# Tesseract OCR
-# Author:  Matthew E. Miller
-# Date: 1/1/2020
+# Project Title: PUT_PROJECT_TIME_HERE
+# Project Description: PUT_PROJECT_DESC_HERE
+# Author:  PUT_AUTHOR_NAME_HERE
+# Date: 02/01/2020 10:38:31
 # Medium: https://medium.com/@matthew_earl_miller (where this is being published)
 # Github: https://github.com/matmill5
 # Linkedin: https://www.linkedin.com/in/matthew-miller-engineer/
 # StackOverflow: https://stackoverflow.com/users/11937169/matthew-e-miller?tab=profile
+# (c) Copyright by PUT_AUTHOR_NAME_HERE and Associates
 
 import pytesseract
 from PIL import Image
