@@ -14,7 +14,7 @@ My objective is to conduct an OCR-analysis on the scanned documents of Dr. Batch
 
 ## Demo
 
-![Final Results](link-to-image)
+![Final Results](https://github.com/matmill5/KenBatcherPP-OCR/blob/master/Demo_Image.png)
 
 ## Getting Started
 
