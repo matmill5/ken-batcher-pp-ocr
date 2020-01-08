@@ -1,4 +1,4 @@
-# Kenneth E. Batcher - Document Cataloging and OCR
+# Kenneth E. Batcher - Documenting Historical Work with OCR
 
 Dr. Kenneth E. Batcher is a highly accomplished Emeritus professor of Computer Science at Kent State University.  He has received many prestigious awards like the IEEE Seymour Cray and ACM/IEEE Eckert-Mauchley Award.  He discovered the Batcher Odd-Even Mergesort and Bitonic Sorter.  And, he holds, or is affiliated with, 14 US Patents.  His work in computer science and parallel processing earned him a place in history as a PP-father.
 
