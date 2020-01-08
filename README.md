@@ -10,6 +10,10 @@ Unfortunately, during my time at Kent State University, Dr. Batcher passed away.
 
 To that end, this project was created.  Although I do not know how valuable my contribution will be, it's my objective to take the scanned documents of Dr. Batcher's work and conduct an OCR-analysis.  I also intend to do some natural language processing on the results and create some interesting visualizations (like a word cloud) to potentially give the memorial website some additional depth/engagement.  In any case, I feel that by doing this work I can pay some respect to a highly esteemed man and learn more about his contribution to a field of science which I hold dear to my heart.
 
+## Demo
+
+TODO: Demo Results and project outcomes
+
 ## Getting Started
 
 TODO: These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -31,10 +35,6 @@ Give examples
 * [pdf2Image](https://pypi.org/project/pdf2image/) - Python PDF to Image Converter
 * [Teseract-OCR](https://en.wikipedia.org/wiki/Tesseract_(software)) - OCR Utility
 * [Poppler](https://en.wikipedia.org/wiki/Poppler_(software)) - PDF Utility
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 

@@ -1,12 +1,12 @@
-# Project Title: PUT_PROJECT_TIME_HERE
-# Project Description: PUT_PROJECT_DESC_HERE
-# Author:  PUT_AUTHOR_NAME_HERE
+# Project Title: Kenneth E. Batcher Historical Work OCR
+# Project Description: Project to conduct OCR on the historical work of PP-father Kenneth E. Batcher
+# Author:  Matthew E. Miller
 # Date: 02/01/2020 10:38:31
 # Medium: https://medium.com/@matthew_earl_miller (where this is being published)
 # Github: https://github.com/matmill5
 # Linkedin: https://www.linkedin.com/in/matthew-miller-engineer/
 # StackOverflow: https://stackoverflow.com/users/11937169/matthew-e-miller?tab=profile
-# (c) Copyright by PUT_AUTHOR_NAME_HERE and Associates
+# (c) Copyright by Matthew E. Miller
 
 import pytesseract
 from PIL import Image
@@ -17,6 +17,7 @@ import io
 
 # Note:  Don't run this on my development laptop, will take up too much storage space with all of the image files.
 # Note:  Run this on my desktop machine.
+
 # Note:  The command below is good for setting the pytesseract path, if that becomes an issue. 
 # pytesseract.pytesseract.tesseract_cmd = r'C:\Users\Matthew\AppData\Local\Tesseract-OCR\tesseract.exe'
 
@@ -40,3 +41,5 @@ for pdf in os.listdir('pdfs'):
             f.write(unicode(pytesseract.image_to_string(sub_dir+filename)+"\n"))
             f.write(unicode("======================================================== ========================= ========================================================\n"))
         pg_cntr = pg_cntr + 1
+
+
