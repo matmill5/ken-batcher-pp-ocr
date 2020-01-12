@@ -18,8 +18,8 @@ My objective is to conduct an OCR-analysis on the scanned documents of Dr. Batch
 
 ## Getting Started
 
-Windows:
-- Get Windows Subsystem for Linux (WSL) and pdf2image.  You can follow this['link to medium article'] installation and usage guide.
+**Windows:**
+- Get Windows Subsystem for Linux (WSL) and pdf2image.  You can follow this [installation and usage guide](https://towardsdatascience.com/poppler-on-windows-179af0e50150).
 - Use pip to get the required imports.
 - Create the appropriate directories, 'images' and 'pdfs'.
 - Provide some pdfs in the pdf-directory.
@@ -27,7 +27,7 @@ Windows:
 ## Running the OCR-analysis
 
 Once you have completed the 'Getting Started':
-- Run the 'go_OCR' script with a terminal command like 'python go_OCR'.
+- Run the 'go_OCR.py' script with a terminal command like 'python go_OCR'.
 
 ## Built With
 
